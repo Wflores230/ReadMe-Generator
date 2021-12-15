@@ -2,7 +2,7 @@
 ## Description
 My motivation for this project was being able to use my knowledge of node, index.js, inquirer, and fs to create a generator for Readme files . I decided to build this project because it is suppose to help creating readme files much easier and faster, since all you would have to do is answer the questions. It solve the problem of taking to much time on the readme file, now by answering a couple of questions you can generate a readme file in no time. For this project I learned, that with node.js, fs, and inquirer you can  create prompts for the user to fill out which will lead them to gereate their owna readme file.
 ## Table of Contents
-* .[Installation] (#installation)
+[Installation] (#installation)
 * .[Usage] (#usage)
 * .[Contribution] (#contribution)
 * .[Credits] (#credits)
